@@ -13,5 +13,5 @@
   <img src="https://freepikpsd.com/media/2019/10/css3-logo-png-9-Transparent-Images.png" width = "50"></img>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width = "50"></img>
 </p>
-<h1 align = "center">I'll be posting projects that I made, usually projects that I made because I was too bored</h1>
-<h1 align = "center">I am learning full stack development, all I need now is javascript :D</h1>
+<h2 align = "center">I'll be posting projects that I made, usually projects that I made because I was too bored</h1>
+<h3 align = "center">I am learning full stack development, all I need now is javascript :D</h1>
