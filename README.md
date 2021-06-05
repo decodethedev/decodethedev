@@ -1,6 +1,6 @@
 
 <h1 align = "center">
-  Ohaiyo Daddy
+  Ohaiyo, daddy!
 </h1>
 <p align = "center">
   <img src="https://raw.githubusercontent.com/cattoware/websitepika/main/assets/Layer%202.png" width="100">
